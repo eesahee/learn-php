@@ -1,0 +1,15 @@
+<!-- This is an HTML Comment -->
+
+single line comments for php
+
+// this is a single line comment
+# this is also a single line comment
+
+/*
+This
+is
+a
+multiple
+line
+comment
+*/
